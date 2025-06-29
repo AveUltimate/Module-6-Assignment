@@ -1,0 +1,3 @@
+def measurement(feet,inches):
+    datetime_object = datetime.now()
+    print(f'We measured {feet} feet, and {inches} at {datetime_object}.')
